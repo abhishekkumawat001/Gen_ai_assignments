@@ -163,16 +163,6 @@ This assignment demonstrates mastery of:
 5. **Information Extraction**: Parsing unstructured data reliably
 6. **Assumption Handling**: Explicit reasoning about edge cases
 
-## Contact Information
-
-**Instructor**: Harshwardhan Fartale  
-**Email**: harshwardha1@iisc.ac.in  
-**Phone**: +91-9317493486  
-**Office Hours**: 3-5 PM Monday-Wednesday  
-**Location**: Room 203, AiReX Lab, IISc Bangalore
-
-For questions or clarifications, feel free to reach out during office hours or via email.
-
 ## Academic Integrity
 
 This repository contains completed assignment work. Please use for reference and learning purposes while adhering to your institution's academic integrity policies.
